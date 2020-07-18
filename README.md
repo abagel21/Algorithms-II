@@ -1,5 +1,5 @@
-# Princeton Algorithms I on Coursera
-This repository contains all the projects in the course Algorithms Part I.
+# Princeton Algorithms II on Coursera
+This repository contains all the projects in the course Algorithms Part II.
 
 
 ## WordNet
